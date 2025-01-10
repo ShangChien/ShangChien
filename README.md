@@ -22,11 +22,4 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@emm.sh)
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/ShangChien/repo/issues/123) in [ShangChien/repo](https://github.com/ShangChien/repo)
-2. 🎉 Merged PR [#456](https://github.com/ShangChien/repo/pull/456) in [ShangChien/repo](https://github.com/ShangChien/repo)
-3. 🚀 Released v1.0.0 of [Your Project](https://github.com/ShangChien/yourproject/releases/tag/v1.0.0)
-<!--END_SECTION:activity-->
 
